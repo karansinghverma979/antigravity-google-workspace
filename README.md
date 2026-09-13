@@ -197,6 +197,16 @@ Add to `%APPDATA%\Claude\claude_desktop_config.json` (Windows) or `~/Library/App
 
 ---
 
+## 🧠 Official Companion Skill & Autonomous Governance
+
+This MCP server is natively governed and orchestrated by the **[`gsuite`](https://github.com/karansinghverma979/antigravity-custom-skills/blob/main/gsuite/SKILL.md)** skill from the **[`antigravity-custom-skills`](https://github.com/karansinghverma979/antigravity-custom-skills)** suite.
+
+- 📖 **Skill Specification**: [`gsuite/SKILL.md`](https://github.com/karansinghverma979/antigravity-custom-skills/blob/main/gsuite/SKILL.md)
+- 🌐 **Master Skillpack Suite**: [Antigravity Custom Skills](https://github.com/karansinghverma979/antigravity-custom-skills)
+
+---
+
 ## 📄 License
 
 This project is open-source and licensed under the [MIT License](LICENSE).
+
