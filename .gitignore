@@ -1,0 +1,19 @@
+# Secrets & Private OAuth Tokens (NEVER COMMIT)
+credentials.json
+token.json
+.env
+*.env.local
+
+# Python Bytecode & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+
+# System & OS Files
+.DS_Store
+Thumbs.db
+*.log
